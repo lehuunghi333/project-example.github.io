@@ -1,0 +1,73 @@
+#wedding {
+  background: url("../img/diem-danh-cac-kieu-khung-hinh-dep-1.jpg") no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-family: 'Pattaya', sans-serif;
+  padding-bottom: 250px; }
+  #wedding .img-item {
+    width: 100%;
+    padding-top: 15px; }
+  #wedding h1 {
+    padding: 5px 0;
+    color: #fb0448;
+    font-size: 56px;
+    font-weight: bold;
+    font-family: 'Cormorant Upright', serif;
+    font-style: italic;
+    letter-spacing: 4px; }
+  #wedding h2 {
+    color: #f50aef;
+    letter-spacing: 6px; }
+  #wedding p {
+    font-size: 18px;
+    text-align: left;
+    letter-spacing: 3px; }
+  #wedding .date {
+    font-size: 16px; }
+  #wedding h3 {
+    text-align: left;
+    font-size: 20px; }
+
+@media all and (max-width: 991px) {
+  #wedding h1 {
+    font-size: 50px;
+    letter-spacing: 3px; }
+  #wedding h2 {
+    font-size: 24px;
+    letter-spacing: 4px; }
+  #wedding p {
+    font-size: 14px; }
+  #wedding .date {
+    font-size: 16px; }
+  #wedding h3 {
+    text-align: left;
+    font-size: 20px; } }
+
+@media all and (max-width: 767px) {
+  #wedding h1 {
+    font-size: 54px;
+    letter-spacing: 3px; }
+  #wedding h2 {
+    font-size: 36px;
+    letter-spacing: 4px; }
+  #wedding p {
+    font-size: 16px; }
+  #wedding .date {
+    font-size: 18px; }
+  #wedding h3 {
+    text-align: left;
+    font-size: 20px; } }
+
+@media all and (max-width: 480px) {
+  #wedding h1 {
+    font-size: 40px; }
+  #wedding h2 {
+    font-size: 24px;
+    letter-spacing: 2px; }
+  #wedding p {
+    font-size: 14px; }
+  #wedding .date {
+    font-size: 14px; }
+  #wedding h3 {
+    text-align: left;
+    font-size: 16px; } }
